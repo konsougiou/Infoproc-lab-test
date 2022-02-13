@@ -1,7 +1,7 @@
 import socket
 print("We're in tcp client..."); 
 #the server name and port client wishes to access 
-server_name = '18.212.51.34' # FIXME: Put your server ipv4 addr
+server_name = '54.91.148.191' # FIXME: Put your server ipv4 addr
 #'52.205.252.164' 
 server_port = 12000 
 #create a TCP client socket 
